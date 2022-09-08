@@ -1,0 +1,2662 @@
+[
+  {
+    "code": "A1101",
+    "libelle": "Conduite d'engins agricoles et forestiers",
+    "domaine_code": "A11"
+  },
+  {
+    "code": "A1201",
+    "libelle": "Bûcheronnage et élagage",
+    "domaine_code": "A12"
+  },
+  {
+    "code": "A1202",
+    "libelle": "Entretien des espaces naturels",
+    "domaine_code": "A12"
+  },
+  {
+    "code": "A1203",
+    "libelle": "Aménagement et entretien des espaces verts",
+    "domaine_code": "A12"
+  },
+  {
+    "code": "A1204",
+    "libelle": "Protection du patrimoine naturel",
+    "domaine_code": "A12"
+  },
+  {
+    "code": "A1205",
+    "libelle": "Sylviculture",
+    "domaine_code": "A12"
+  },
+  {
+    "code": "A1301",
+    "libelle": "Conseil et assistance technique en agriculture et environnement naturel",
+    "domaine_code": "A13"
+  },
+  {
+    "code": "A1302",
+    "libelle": "Contrôle et diagnostic technique en agriculture",
+    "domaine_code": "A13"
+  },
+  {
+    "code": "A1303",
+    "libelle": "Ingénierie en agriculture et environnement naturel",
+    "domaine_code": "A13"
+  },
+  {
+    "code": "A1401",
+    "libelle": "Aide agricole de production fruitière ou viticole",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1402",
+    "libelle": "Aide agricole de production légumière ou végétale",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1403",
+    "libelle": "Aide d'élevage agricole et aquacole",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1404",
+    "libelle": "Aquaculture",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1405",
+    "libelle": "Arboriculture et viticulture",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1406",
+    "libelle": "Encadrement équipage de la pêche",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1407",
+    "libelle": "Élevage bovin ou équin",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1408",
+    "libelle": "Élevage d'animaux sauvages ou de compagnie",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1409",
+    "libelle": "Élevage de lapins et volailles",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1410",
+    "libelle": "Élevage ovin ou caprin",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1411",
+    "libelle": "Élevage porcin",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1412",
+    "libelle": "Fabrication et affinage de fromages",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1413",
+    "libelle": "Fermentation de boissons alcoolisées",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1414",
+    "libelle": "Horticulture et maraîchage",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1415",
+    "libelle": "Équipage de la pêche",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1416",
+    "libelle": "Polyculture, élevage",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1417",
+    "libelle": "Saliculture",
+    "domaine_code": "A14"
+  },
+  {
+    "code": "A1501",
+    "libelle": "Aide aux soins animaux",
+    "domaine_code": "A15"
+  },
+  {
+    "code": "A1502",
+    "libelle": "Podologie animale",
+    "domaine_code": "A15"
+  },
+  {
+    "code": "A1503",
+    "libelle": "Toilettage des animaux",
+    "domaine_code": "A15"
+  },
+  {
+    "code": "A1504",
+    "libelle": "Santé animale",
+    "domaine_code": "A15"
+  },
+  {
+    "code": "B1101",
+    "libelle": "Création en arts plastiques",
+    "domaine_code": "B11"
+  },
+  {
+    "code": "B1201",
+    "libelle": "Réalisation d'objets décoratifs et utilitaires en céramique et matériaux de synthèse",
+    "domaine_code": "B12"
+  },
+  {
+    "code": "B1301",
+    "libelle": "Décoration d'espaces de vente et d'exposition",
+    "domaine_code": "B13"
+  },
+  {
+    "code": "B1302",
+    "libelle": "Décoration d'objets d'art et artisanaux",
+    "domaine_code": "B13"
+  },
+  {
+    "code": "B1303",
+    "libelle": "Gravure - ciselure",
+    "domaine_code": "B13"
+  },
+  {
+    "code": "B1401",
+    "libelle": "Réalisation d'objets en lianes, fibres et brins végétaux",
+    "domaine_code": "B14"
+  },
+  {
+    "code": "B1402",
+    "libelle": "Reliure et restauration de livres et archives",
+    "domaine_code": "B14"
+  },
+  {
+    "code": "B1501",
+    "libelle": "Fabrication et réparation d'instruments de musique",
+    "domaine_code": "B15"
+  },
+  {
+    "code": "B1601",
+    "libelle": "Métallerie d'art",
+    "domaine_code": "B16"
+  },
+  {
+    "code": "B1602",
+    "libelle": "Réalisation d'objets artistiques et fonctionnels en verre",
+    "domaine_code": "B16"
+  },
+  {
+    "code": "B1603",
+    "libelle": "Réalisation d'ouvrages en bijouterie, joaillerie et orfèvrerie",
+    "domaine_code": "B16"
+  },
+  {
+    "code": "B1604",
+    "libelle": "Réparation - montage en systèmes horlogers",
+    "domaine_code": "B16"
+  },
+  {
+    "code": "B1701",
+    "libelle": "Conservation et reconstitution d'espèces animales",
+    "domaine_code": "B17"
+  },
+  {
+    "code": "B1801",
+    "libelle": "Réalisation d'articles de chapellerie",
+    "domaine_code": "B18"
+  },
+  {
+    "code": "B1802",
+    "libelle": "Réalisation d'articles en cuir et matériaux souples (hors vêtement)",
+    "domaine_code": "B18"
+  },
+  {
+    "code": "B1803",
+    "libelle": "Réalisation de vêtements sur mesure ou en petite série",
+    "domaine_code": "B18"
+  },
+  {
+    "code": "B1804",
+    "libelle": "Réalisation d'ouvrages d'art en fils",
+    "domaine_code": "B18"
+  },
+  {
+    "code": "B1805",
+    "libelle": "Stylisme",
+    "domaine_code": "B18"
+  },
+  {
+    "code": "B1806",
+    "libelle": "Tapisserie - décoration en ameublement",
+    "domaine_code": "B18"
+  },
+  {
+    "code": "C1101",
+    "libelle": "Conception - développement produits d'assurances",
+    "domaine_code": "C11"
+  },
+  {
+    "code": "C1102",
+    "libelle": "Conseil clientèle en assurances",
+    "domaine_code": "C11"
+  },
+  {
+    "code": "C1103",
+    "libelle": "Courtage en assurances",
+    "domaine_code": "C11"
+  },
+  {
+    "code": "C1104",
+    "libelle": "Direction d'exploitation en assurances",
+    "domaine_code": "C11"
+  },
+  {
+    "code": "C1105",
+    "libelle": "Études actuarielles en assurances",
+    "domaine_code": "C11"
+  },
+  {
+    "code": "C1106",
+    "libelle": "Expertise risques en assurances",
+    "domaine_code": "C11"
+  },
+  {
+    "code": "C1107",
+    "libelle": "Indemnisations en assurances",
+    "domaine_code": "C11"
+  },
+  {
+    "code": "C1108",
+    "libelle": "Management de groupe et de service en assurances",
+    "domaine_code": "C11"
+  },
+  {
+    "code": "C1109",
+    "libelle": "Rédaction et gestion en assurances",
+    "domaine_code": "C11"
+  },
+  {
+    "code": "C1110",
+    "libelle": "Souscription d'assurances",
+    "domaine_code": "C11"
+  },
+  {
+    "code": "C1201",
+    "libelle": "Accueil et services bancaires",
+    "domaine_code": "C12"
+  },
+  {
+    "code": "C1202",
+    "libelle": "Analyse de crédits et risques bancaires",
+    "domaine_code": "C12"
+  },
+  {
+    "code": "C1203",
+    "libelle": "Relation clients banque/finance",
+    "domaine_code": "C12"
+  },
+  {
+    "code": "C1204",
+    "libelle": "Conception et expertise produits bancaires et financiers",
+    "domaine_code": "C12"
+  },
+  {
+    "code": "C1205",
+    "libelle": "Conseil en gestion de patrimoine financier",
+    "domaine_code": "C12"
+  },
+  {
+    "code": "C1206",
+    "libelle": "Gestion de clientèle bancaire",
+    "domaine_code": "C12"
+  },
+  {
+    "code": "C1207",
+    "libelle": "Management en exploitation bancaire",
+    "domaine_code": "C12"
+  },
+  {
+    "code": "C1301",
+    "libelle": "Front office marchés financiers",
+    "domaine_code": "C13"
+  },
+  {
+    "code": "C1302",
+    "libelle": "Gestion back et middle-office marchés financiers",
+    "domaine_code": "C13"
+  },
+  {
+    "code": "C1303",
+    "libelle": "Gestion de portefeuilles sur les marchés financiers",
+    "domaine_code": "C13"
+  },
+  {
+    "code": "C1401",
+    "libelle": "Gestion en banque et assurance",
+    "domaine_code": "C14"
+  },
+  {
+    "code": "C1501",
+    "libelle": "Gérance immobilière",
+    "domaine_code": "C15"
+  },
+  {
+    "code": "C1502",
+    "libelle": "Gestion locative immobilière",
+    "domaine_code": "C15"
+  },
+  {
+    "code": "C1503",
+    "libelle": "Management de projet immobilier",
+    "domaine_code": "C15"
+  },
+  {
+    "code": "C1504",
+    "libelle": "Transaction immobilière",
+    "domaine_code": "C15"
+  },
+  {
+    "code": "D1101",
+    "libelle": "Boucherie",
+    "domaine_code": "D11"
+  },
+  {
+    "code": "D1102",
+    "libelle": "Boulangerie - viennoiserie",
+    "domaine_code": "D11"
+  },
+  {
+    "code": "D1103",
+    "libelle": "Charcuterie - traiteur",
+    "domaine_code": "D11"
+  },
+  {
+    "code": "D1104",
+    "libelle": "Pâtisserie, confiserie, chocolaterie et glacerie",
+    "domaine_code": "D11"
+  },
+  {
+    "code": "D1105",
+    "libelle": "Poissonnerie",
+    "domaine_code": "D11"
+  },
+  {
+    "code": "D1106",
+    "libelle": "Vente en alimentation",
+    "domaine_code": "D11"
+  },
+  {
+    "code": "D1107",
+    "libelle": "Vente en gros de produits frais",
+    "domaine_code": "D11"
+  },
+  {
+    "code": "D1201",
+    "libelle": "Achat vente d'objets d'art, anciens ou d'occasion",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1202",
+    "libelle": "Coiffure",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1203",
+    "libelle": "Hydrothérapie",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1204",
+    "libelle": "Location de véhicules ou de matériel de loisirs",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1205",
+    "libelle": "Nettoyage d'articles textiles ou cuirs",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1206",
+    "libelle": "Réparation d'articles en cuir et matériaux souples",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1207",
+    "libelle": "Retouches en habillement",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1208",
+    "libelle": "Soins esthétiques et corporels",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1209",
+    "libelle": "Vente de végétaux",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1210",
+    "libelle": "Vente en animalerie",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1211",
+    "libelle": "Vente en articles de sport et loisirs",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1212",
+    "libelle": "Vente en décoration et équipement du foyer",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1213",
+    "libelle": "Vente en gros de matériel et équipement",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1214",
+    "libelle": "Vente en habillement et accessoires de la personne",
+    "domaine_code": "D12"
+  },
+  {
+    "code": "D1301",
+    "libelle": "Management de magasin de détail",
+    "domaine_code": "D13"
+  },
+  {
+    "code": "D1401",
+    "libelle": "Assistanat commercial",
+    "domaine_code": "D14"
+  },
+  {
+    "code": "D1402",
+    "libelle": "Relation commerciale grands comptes et entreprises",
+    "domaine_code": "D14"
+  },
+  {
+    "code": "D1403",
+    "libelle": "Relation commerciale auprès de particuliers",
+    "domaine_code": "D14"
+  },
+  {
+    "code": "D1404",
+    "libelle": "Relation commerciale en vente de véhicules",
+    "domaine_code": "D14"
+  },
+  {
+    "code": "D1405",
+    "libelle": "Conseil en information médicale",
+    "domaine_code": "D14"
+  },
+  {
+    "code": "D1406",
+    "libelle": "Management en force de vente",
+    "domaine_code": "D14"
+  },
+  {
+    "code": "D1407",
+    "libelle": "Relation technico-commerciale",
+    "domaine_code": "D14"
+  },
+  {
+    "code": "D1408",
+    "libelle": "Téléconseil et télévente",
+    "domaine_code": "D14"
+  },
+  {
+    "code": "D1501",
+    "libelle": "Animation de vente",
+    "domaine_code": "D15"
+  },
+  {
+    "code": "D1502",
+    "libelle": "Management/gestion de rayon produits alimentaires",
+    "domaine_code": "D15"
+  },
+  {
+    "code": "D1503",
+    "libelle": "Management/gestion de rayon produits non alimentaires",
+    "domaine_code": "D15"
+  },
+  {
+    "code": "D1504",
+    "libelle": "Direction de magasin de grande distribution",
+    "domaine_code": "D15"
+  },
+  {
+    "code": "D1505",
+    "libelle": "Personnel de caisse",
+    "domaine_code": "D15"
+  },
+  {
+    "code": "D1506",
+    "libelle": "Marchandisage",
+    "domaine_code": "D15"
+  },
+  {
+    "code": "D1507",
+    "libelle": "Mise en rayon libre-service",
+    "domaine_code": "D15"
+  },
+  {
+    "code": "D1508",
+    "libelle": "Encadrement du personnel de caisses",
+    "domaine_code": "D15"
+  },
+  {
+    "code": "D1509",
+    "libelle": "Management de département en grande distribution",
+    "domaine_code": "D15"
+  },
+  {
+    "code": "E1101",
+    "libelle": "Animation de site multimédia",
+    "domaine_code": "E11"
+  },
+  {
+    "code": "E1102",
+    "libelle": "Écriture d'ouvrages, de livres",
+    "domaine_code": "E11"
+  },
+  {
+    "code": "E1103",
+    "libelle": "Communication",
+    "domaine_code": "E11"
+  },
+  {
+    "code": "E1104",
+    "libelle": "Conception de contenus multimédias",
+    "domaine_code": "E11"
+  },
+  {
+    "code": "E1105",
+    "libelle": "Coordination d'édition",
+    "domaine_code": "E11"
+  },
+  {
+    "code": "E1106",
+    "libelle": "Journalisme et information média",
+    "domaine_code": "E11"
+  },
+  {
+    "code": "E1107",
+    "libelle": "Organisation d'évènementiel",
+    "domaine_code": "E11"
+  },
+  {
+    "code": "E1108",
+    "libelle": "Traduction, interprétariat",
+    "domaine_code": "E11"
+  },
+  {
+    "code": "E1201",
+    "libelle": "Photographie",
+    "domaine_code": "E12"
+  },
+  {
+    "code": "E1202",
+    "libelle": "Production en laboratoire cinématographique",
+    "domaine_code": "E12"
+  },
+  {
+    "code": "E1203",
+    "libelle": "Production en laboratoire photographique",
+    "domaine_code": "E12"
+  },
+  {
+    "code": "E1204",
+    "libelle": "Projection cinéma",
+    "domaine_code": "E12"
+  },
+  {
+    "code": "E1205",
+    "libelle": "Réalisation de contenus multimédias",
+    "domaine_code": "E12"
+  },
+  {
+    "code": "E1301",
+    "libelle": "Conduite de machines d'impression",
+    "domaine_code": "E13"
+  },
+  {
+    "code": "E1302",
+    "libelle": "Conduite de machines de façonnage routage",
+    "domaine_code": "E13"
+  },
+  {
+    "code": "E1303",
+    "libelle": "Encadrement des industries graphiques",
+    "domaine_code": "E13"
+  },
+  {
+    "code": "E1304",
+    "libelle": "Façonnage et routage",
+    "domaine_code": "E13"
+  },
+  {
+    "code": "E1305",
+    "libelle": "Préparation et correction en édition et presse",
+    "domaine_code": "E13"
+  },
+  {
+    "code": "E1306",
+    "libelle": "Prépresse",
+    "domaine_code": "E13"
+  },
+  {
+    "code": "E1307",
+    "libelle": "Reprographie",
+    "domaine_code": "E13"
+  },
+  {
+    "code": "E1308",
+    "libelle": "Intervention technique en industrie graphique",
+    "domaine_code": "E13"
+  },
+  {
+    "code": "E1401",
+    "libelle": "Développement et promotion publicitaire",
+    "domaine_code": "E14"
+  },
+  {
+    "code": "E1402",
+    "libelle": "Élaboration de plan média",
+    "domaine_code": "E14"
+  },
+  {
+    "code": "F1101",
+    "libelle": "Architecture du BTP et du paysage",
+    "domaine_code": "F11"
+  },
+  {
+    "code": "F1102",
+    "libelle": "Conception - aménagement d'espaces intérieurs",
+    "domaine_code": "F11"
+  },
+  {
+    "code": "F1103",
+    "libelle": "Contrôle et diagnostic technique du bâtiment",
+    "domaine_code": "F11"
+  },
+  {
+    "code": "F1104",
+    "libelle": "Dessin BTP et paysage",
+    "domaine_code": "F11"
+  },
+  {
+    "code": "F1105",
+    "libelle": "Études géologiques",
+    "domaine_code": "F11"
+  },
+  {
+    "code": "F1106",
+    "libelle": "Ingénierie et études du BTP",
+    "domaine_code": "F11"
+  },
+  {
+    "code": "F1107",
+    "libelle": "Mesures topographiques",
+    "domaine_code": "F11"
+  },
+  {
+    "code": "F1108",
+    "libelle": "Métré de la construction",
+    "domaine_code": "F11"
+  },
+  {
+    "code": "F1201",
+    "libelle": "Conduite de travaux du BTP et de travaux paysagers",
+    "domaine_code": "F12"
+  },
+  {
+    "code": "F1202",
+    "libelle": "Direction de chantier du BTP",
+    "domaine_code": "F12"
+  },
+  {
+    "code": "F1203",
+    "libelle": "Direction et ingénierie d'exploitation de gisements et de carrières",
+    "domaine_code": "F12"
+  },
+  {
+    "code": "F1204",
+    "libelle": "Qualité Sécurité Environnement et protection santé du BTP",
+    "domaine_code": "F12"
+  },
+  {
+    "code": "F1301",
+    "libelle": "Conduite de grue",
+    "domaine_code": "F13"
+  },
+  {
+    "code": "F1302",
+    "libelle": "Conduite d'engins de terrassement et de carrière",
+    "domaine_code": "F13"
+  },
+  {
+    "code": "F1401",
+    "libelle": "Extraction liquide et gazeuse",
+    "domaine_code": "F14"
+  },
+  {
+    "code": "F1402",
+    "libelle": "Extraction solide",
+    "domaine_code": "F14"
+  },
+  {
+    "code": "F1501",
+    "libelle": "Montage de structures et de charpentes bois",
+    "domaine_code": "F15"
+  },
+  {
+    "code": "F1502",
+    "libelle": "Montage de structures métalliques",
+    "domaine_code": "F15"
+  },
+  {
+    "code": "F1503",
+    "libelle": "Réalisation - installation d'ossatures bois",
+    "domaine_code": "F15"
+  },
+  {
+    "code": "F1601",
+    "libelle": "Application et décoration en plâtre, stuc et staff",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1602",
+    "libelle": "Électricité bâtiment",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1603",
+    "libelle": "Installation d'équipements sanitaires et thermiques",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1604",
+    "libelle": "Montage d'agencements",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1605",
+    "libelle": "Montage de réseaux électriques et télécoms",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1606",
+    "libelle": "Peinture en bâtiment",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1607",
+    "libelle": "Pose de fermetures menuisées",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1608",
+    "libelle": "Pose de revêtements rigides",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1609",
+    "libelle": "Pose de revêtements souples",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1610",
+    "libelle": "Pose et restauration de couvertures",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1611",
+    "libelle": "Réalisation et restauration de façades",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1612",
+    "libelle": "Taille et décoration de pierres",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1613",
+    "libelle": "Travaux d'étanchéité et d'isolation",
+    "domaine_code": "F16"
+  },
+  {
+    "code": "F1701",
+    "libelle": "Construction en béton",
+    "domaine_code": "F17"
+  },
+  {
+    "code": "F1702",
+    "libelle": "Construction de routes et voies",
+    "domaine_code": "F17"
+  },
+  {
+    "code": "F1703",
+    "libelle": "Maçonnerie",
+    "domaine_code": "F17"
+  },
+  {
+    "code": "F1704",
+    "libelle": "Préparation du gros oeuvre et des travaux publics",
+    "domaine_code": "F17"
+  },
+  {
+    "code": "F1705",
+    "libelle": "Pose de canalisations",
+    "domaine_code": "F17"
+  },
+  {
+    "code": "F1706",
+    "libelle": "Préfabrication en béton industriel",
+    "domaine_code": "F17"
+  },
+  {
+    "code": "G1101",
+    "libelle": "Accueil touristique",
+    "domaine_code": "G11"
+  },
+  {
+    "code": "G1102",
+    "libelle": "Promotion du tourisme local",
+    "domaine_code": "G11"
+  },
+  {
+    "code": "G1201",
+    "libelle": "Accompagnement de voyages, d'activités culturelles ou sportives",
+    "domaine_code": "G12"
+  },
+  {
+    "code": "G1202",
+    "libelle": "Animation d'activités culturelles ou ludiques",
+    "domaine_code": "G12"
+  },
+  {
+    "code": "G1203",
+    "libelle": "Animation de loisirs auprès d'enfants ou d'adolescents",
+    "domaine_code": "G12"
+  },
+  {
+    "code": "G1204",
+    "libelle": "Éducation en activités sportives",
+    "domaine_code": "G12"
+  },
+  {
+    "code": "G1205",
+    "libelle": "Personnel d'attractions ou de structures de loisirs",
+    "domaine_code": "G12"
+  },
+  {
+    "code": "G1206",
+    "libelle": "Personnel technique des jeux",
+    "domaine_code": "G12"
+  },
+  {
+    "code": "G1301",
+    "libelle": "Conception de produits touristiques",
+    "domaine_code": "G13"
+  },
+  {
+    "code": "G1302",
+    "libelle": "Optimisation de produits touristiques",
+    "domaine_code": "G13"
+  },
+  {
+    "code": "G1303",
+    "libelle": "Vente de voyages",
+    "domaine_code": "G13"
+  },
+  {
+    "code": "G1401",
+    "libelle": "Assistance de direction d'hôtel-restaurant",
+    "domaine_code": "G14"
+  },
+  {
+    "code": "G1402",
+    "libelle": "Management d'hôtel-restaurant",
+    "domaine_code": "G14"
+  },
+  {
+    "code": "G1403",
+    "libelle": "Gestion de structure de loisirs ou d'hébergement touristique",
+    "domaine_code": "G14"
+  },
+  {
+    "code": "G1404",
+    "libelle": "Management d'établissement de restauration collective",
+    "domaine_code": "G14"
+  },
+  {
+    "code": "G1501",
+    "libelle": "Personnel d'étage",
+    "domaine_code": "G15"
+  },
+  {
+    "code": "G1502",
+    "libelle": "Personnel polyvalent d'hôtellerie",
+    "domaine_code": "G15"
+  },
+  {
+    "code": "G1503",
+    "libelle": "Management du personnel d'étage",
+    "domaine_code": "G15"
+  },
+  {
+    "code": "G1601",
+    "libelle": "Management du personnel de cuisine",
+    "domaine_code": "G16"
+  },
+  {
+    "code": "G1602",
+    "libelle": "Personnel de cuisine",
+    "domaine_code": "G16"
+  },
+  {
+    "code": "G1603",
+    "libelle": "Personnel polyvalent en restauration",
+    "domaine_code": "G16"
+  },
+  {
+    "code": "G1604",
+    "libelle": "Fabrication de crêpes ou pizzas",
+    "domaine_code": "G16"
+  },
+  {
+    "code": "G1605",
+    "libelle": "Plonge en restauration",
+    "domaine_code": "G16"
+  },
+  {
+    "code": "G1701",
+    "libelle": "Conciergerie en hôtellerie",
+    "domaine_code": "G17"
+  },
+  {
+    "code": "G1702",
+    "libelle": "Personnel du hall",
+    "domaine_code": "G17"
+  },
+  {
+    "code": "G1703",
+    "libelle": "Réception en hôtellerie",
+    "domaine_code": "G17"
+  },
+  {
+    "code": "G1801",
+    "libelle": "Café, bar brasserie",
+    "domaine_code": "G18"
+  },
+  {
+    "code": "G1802",
+    "libelle": "Management du service en restauration",
+    "domaine_code": "G18"
+  },
+  {
+    "code": "G1803",
+    "libelle": "Service en restauration",
+    "domaine_code": "G18"
+  },
+  {
+    "code": "G1804",
+    "libelle": "Sommellerie",
+    "domaine_code": "G18"
+  },
+  {
+    "code": "H1101",
+    "libelle": "Assistance et support technique client",
+    "domaine_code": "H11"
+  },
+  {
+    "code": "H1102",
+    "libelle": "Management et ingénierie d'affaires",
+    "domaine_code": "H11"
+  },
+  {
+    "code": "H1201",
+    "libelle": "Expertise technique couleur en industrie",
+    "domaine_code": "H12"
+  },
+  {
+    "code": "H1202",
+    "libelle": "Conception et dessin de produits électriques et électroniques",
+    "domaine_code": "H12"
+  },
+  {
+    "code": "H1203",
+    "libelle": "Conception et dessin produits mécaniques",
+    "domaine_code": "H12"
+  },
+  {
+    "code": "H1204",
+    "libelle": "Design industriel",
+    "domaine_code": "H12"
+  },
+  {
+    "code": "H1205",
+    "libelle": "Études - modèles en industrie des matériaux souples",
+    "domaine_code": "H12"
+  },
+  {
+    "code": "H1206",
+    "libelle": "Management et ingénierie études, recherche et développement industriel",
+    "domaine_code": "H12"
+  },
+  {
+    "code": "H1207",
+    "libelle": "Rédaction technique",
+    "domaine_code": "H12"
+  },
+  {
+    "code": "H1208",
+    "libelle": "Intervention technique en études et conception en automatisme",
+    "domaine_code": "H12"
+  },
+  {
+    "code": "H1209",
+    "libelle": "Intervention technique en études et développement électronique",
+    "domaine_code": "H12"
+  },
+  {
+    "code": "H1210",
+    "libelle": "Intervention technique en études, recherche et développement",
+    "domaine_code": "H12"
+  },
+  {
+    "code": "H1301",
+    "libelle": "Inspection de conformité",
+    "domaine_code": "H13"
+  },
+  {
+    "code": "H1302",
+    "libelle": "Management et ingénierie Hygiène Sécurité Environnement -HSE- industriels",
+    "domaine_code": "H13"
+  },
+  {
+    "code": "H1303",
+    "libelle": "Intervention technique en Hygiène Sécurité Environnement -HSE- industriel",
+    "domaine_code": "H13"
+  },
+  {
+    "code": "H1401",
+    "libelle": "Management et ingénierie gestion industrielle et logistique",
+    "domaine_code": "H14"
+  },
+  {
+    "code": "H1402",
+    "libelle": "Management et ingénierie méthodes et industrialisation",
+    "domaine_code": "H14"
+  },
+  {
+    "code": "H1403",
+    "libelle": "Intervention technique en gestion industrielle et logistique",
+    "domaine_code": "H14"
+  },
+  {
+    "code": "H1404",
+    "libelle": "Intervention technique en méthodes et industrialisation",
+    "domaine_code": "H14"
+  },
+  {
+    "code": "H1501",
+    "libelle": "Direction de laboratoire d'analyse industrielle",
+    "domaine_code": "H15"
+  },
+  {
+    "code": "H1502",
+    "libelle": "Management et ingénierie qualité industrielle",
+    "domaine_code": "H15"
+  },
+  {
+    "code": "H1503",
+    "libelle": "Intervention technique en laboratoire d'analyse industrielle",
+    "domaine_code": "H15"
+  },
+  {
+    "code": "H1504",
+    "libelle": "Intervention technique en contrôle essai qualité en électricité et électronique",
+    "domaine_code": "H15"
+  },
+  {
+    "code": "H1505",
+    "libelle": "Intervention technique en formulation et analyse sensorielle",
+    "domaine_code": "H15"
+  },
+  {
+    "code": "H1506",
+    "libelle": "Intervention technique qualité en mécanique et travail des métaux",
+    "domaine_code": "H15"
+  },
+  {
+    "code": "H2101",
+    "libelle": "Abattage et découpe des viandes",
+    "domaine_code": "H21"
+  },
+  {
+    "code": "H2102",
+    "libelle": "Conduite d'équipement de production alimentaire",
+    "domaine_code": "H21"
+  },
+  {
+    "code": "H2201",
+    "libelle": "Assemblage d'ouvrages en bois",
+    "domaine_code": "H22"
+  },
+  {
+    "code": "H2202",
+    "libelle": "Conduite d'équipement de fabrication de l'ameublement et du bois",
+    "domaine_code": "H22"
+  },
+  {
+    "code": "H2203",
+    "libelle": "Conduite d'installation de production de panneaux bois",
+    "domaine_code": "H22"
+  },
+  {
+    "code": "H2204",
+    "libelle": "Encadrement des industries de l'ameublement et du bois",
+    "domaine_code": "H22"
+  },
+  {
+    "code": "H2205",
+    "libelle": "Première transformation de bois d'oeuvre",
+    "domaine_code": "H22"
+  },
+  {
+    "code": "H2206",
+    "libelle": "Réalisation de menuiserie bois et tonnellerie",
+    "domaine_code": "H22"
+  },
+  {
+    "code": "H2207",
+    "libelle": "Réalisation de meubles en bois",
+    "domaine_code": "H22"
+  },
+  {
+    "code": "H2208",
+    "libelle": "Réalisation d'ouvrages décoratifs en bois",
+    "domaine_code": "H22"
+  },
+  {
+    "code": "H2209",
+    "libelle": "Intervention technique en ameublement et bois",
+    "domaine_code": "H22"
+  },
+  {
+    "code": "H2301",
+    "libelle": "Conduite d'équipement de production chimique ou pharmaceutique",
+    "domaine_code": "H23"
+  },
+  {
+    "code": "H2401",
+    "libelle": "Assemblage - montage d'articles en cuirs, peaux",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2402",
+    "libelle": "Assemblage - montage de vêtements et produits textiles",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2403",
+    "libelle": "Conduite de machine de fabrication de produits textiles",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2404",
+    "libelle": "Conduite de machine de production et transformation des fils",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2405",
+    "libelle": "Conduite de machine de textiles nontissés",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2406",
+    "libelle": "Conduite de machine de traitement textile",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2407",
+    "libelle": "Conduite de machine de transformation et de finition des cuirs et peaux",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2408",
+    "libelle": "Conduite de machine d'impression textile",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2409",
+    "libelle": "Coupe cuir, textile et matériaux souples",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2410",
+    "libelle": "Mise en forme, repassage et finitions en industrie textile",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2411",
+    "libelle": "Montage de prototype cuir et matériaux souples",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2412",
+    "libelle": "Patronnage - gradation",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2413",
+    "libelle": "Préparation de fils, montage de métiers textiles",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2414",
+    "libelle": "Préparation et finition d'articles en cuir et matériaux souples",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2415",
+    "libelle": "Contrôle en industrie du cuir et du textile",
+    "domaine_code": "H24"
+  },
+  {
+    "code": "H2501",
+    "libelle": "Encadrement de production de matériel électrique et électronique",
+    "domaine_code": "H25"
+  },
+  {
+    "code": "H2502",
+    "libelle": "Management et ingénierie de production",
+    "domaine_code": "H25"
+  },
+  {
+    "code": "H2503",
+    "libelle": "Pilotage d'unité élémentaire de production mécanique ou de travail des métaux",
+    "domaine_code": "H25"
+  },
+  {
+    "code": "H2504",
+    "libelle": "Encadrement d'équipe en industrie de transformation",
+    "domaine_code": "H25"
+  },
+  {
+    "code": "H2505",
+    "libelle": "Encadrement d'équipe ou d'atelier en matériaux souples",
+    "domaine_code": "H25"
+  },
+  {
+    "code": "H2601",
+    "libelle": "Bobinage électrique",
+    "domaine_code": "H26"
+  },
+  {
+    "code": "H2602",
+    "libelle": "Câblage électrique et électromécanique",
+    "domaine_code": "H26"
+  },
+  {
+    "code": "H2603",
+    "libelle": "Conduite d'installation automatisée de production électrique, électronique et microélectronique",
+    "domaine_code": "H26"
+  },
+  {
+    "code": "H2604",
+    "libelle": "Montage de produits électriques et électroniques",
+    "domaine_code": "H26"
+  },
+  {
+    "code": "H2605",
+    "libelle": "Montage et câblage électronique",
+    "domaine_code": "H26"
+  },
+  {
+    "code": "H2701",
+    "libelle": "Pilotage d'installation énergétique et pétrochimique",
+    "domaine_code": "H27"
+  },
+  {
+    "code": "H2801",
+    "libelle": "Conduite d'équipement de transformation du verre",
+    "domaine_code": "H28"
+  },
+  {
+    "code": "H2802",
+    "libelle": "Conduite d'installation de production de matériaux de construction",
+    "domaine_code": "H28"
+  },
+  {
+    "code": "H2803",
+    "libelle": "Façonnage et émaillage en industrie céramique",
+    "domaine_code": "H28"
+  },
+  {
+    "code": "H2804",
+    "libelle": "Pilotage de centrale à béton prêt à l'emploi, ciment, enrobés et granulats",
+    "domaine_code": "H28"
+  },
+  {
+    "code": "H2805",
+    "libelle": "Pilotage d'installation de production verrière",
+    "domaine_code": "H28"
+  },
+  {
+    "code": "H2901",
+    "libelle": "Ajustement et montage de fabrication",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2902",
+    "libelle": "Chaudronnerie - tôlerie",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2903",
+    "libelle": "Conduite d'équipement d'usinage",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2904",
+    "libelle": "Conduite d'équipement de déformation des métaux",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2905",
+    "libelle": "Conduite d'équipement de formage et découpage des matériaux",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2906",
+    "libelle": "Conduite d'installation automatisée ou robotisée de fabrication mécanique",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2907",
+    "libelle": "Conduite d'installation de production des métaux",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2908",
+    "libelle": "Modelage de matériaux non métalliques",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2909",
+    "libelle": "Montage-assemblage mécanique",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2910",
+    "libelle": "Moulage sable",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2911",
+    "libelle": "Réalisation de structures métalliques",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2912",
+    "libelle": "Réglage d'équipement de production industrielle",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2913",
+    "libelle": "Soudage manuel",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H2914",
+    "libelle": "Réalisation et montage en tuyauterie",
+    "domaine_code": "H29"
+  },
+  {
+    "code": "H3101",
+    "libelle": "Conduite d'équipement de fabrication de papier ou de carton",
+    "domaine_code": "H31"
+  },
+  {
+    "code": "H3102",
+    "libelle": "Conduite d'installation de pâte à papier",
+    "domaine_code": "H31"
+  },
+  {
+    "code": "H3201",
+    "libelle": "Conduite d'équipement de formage des plastiques et caoutchoucs",
+    "domaine_code": "H32"
+  },
+  {
+    "code": "H3202",
+    "libelle": "Réglage d'équipement de formage des plastiques et caoutchoucs",
+    "domaine_code": "H32"
+  },
+  {
+    "code": "H3203",
+    "libelle": "Fabrication de pièces en matériaux composites",
+    "domaine_code": "H32"
+  },
+  {
+    "code": "H3301",
+    "libelle": "Conduite d'équipement de conditionnement",
+    "domaine_code": "H33"
+  },
+  {
+    "code": "H3302",
+    "libelle": "Opérations manuelles d'assemblage, tri ou emballage",
+    "domaine_code": "H33"
+  },
+  {
+    "code": "H3303",
+    "libelle": "Préparation de matières et produits industriels (broyage, mélange, ...)",
+    "domaine_code": "H33"
+  },
+  {
+    "code": "H3401",
+    "libelle": "Conduite de traitement d'abrasion de surface",
+    "domaine_code": "H34"
+  },
+  {
+    "code": "H3402",
+    "libelle": "Conduite de traitement par dépôt de surface",
+    "domaine_code": "H34"
+  },
+  {
+    "code": "H3403",
+    "libelle": "Conduite de traitement thermique",
+    "domaine_code": "H34"
+  },
+  {
+    "code": "H3404",
+    "libelle": "Peinture industrielle",
+    "domaine_code": "H34"
+  },
+  {
+    "code": "I1101",
+    "libelle": "Direction et ingénierie en entretien infrastructure et bâti",
+    "domaine_code": "I11"
+  },
+  {
+    "code": "I1102",
+    "libelle": "Management et ingénierie de maintenance industrielle",
+    "domaine_code": "I11"
+  },
+  {
+    "code": "I1103",
+    "libelle": "Supervision d'entretien et gestion de véhicules",
+    "domaine_code": "I11"
+  },
+  {
+    "code": "I1201",
+    "libelle": "Entretien d'affichage et mobilier urbain",
+    "domaine_code": "I12"
+  },
+  {
+    "code": "I1202",
+    "libelle": "Entretien et surveillance du tracé routier",
+    "domaine_code": "I12"
+  },
+  {
+    "code": "I1203",
+    "libelle": "Maintenance des bâtiments et des locaux",
+    "domaine_code": "I12"
+  },
+  {
+    "code": "I1301",
+    "libelle": "Installation et maintenance d'ascenseurs",
+    "domaine_code": "I13"
+  },
+  {
+    "code": "I1302",
+    "libelle": "Installation et maintenance d'automatismes",
+    "domaine_code": "I13"
+  },
+  {
+    "code": "I1303",
+    "libelle": "Installation et maintenance de distributeurs automatiques",
+    "domaine_code": "I13"
+  },
+  {
+    "code": "I1304",
+    "libelle": "Installation et maintenance d'équipements industriels et d'exploitation",
+    "domaine_code": "I13"
+  },
+  {
+    "code": "I1305",
+    "libelle": "Installation et maintenance électronique",
+    "domaine_code": "I13"
+  },
+  {
+    "code": "I1306",
+    "libelle": "Installation et maintenance en froid, conditionnement d'air",
+    "domaine_code": "I13"
+  },
+  {
+    "code": "I1307",
+    "libelle": "Installation et maintenance télécoms et courants faibles",
+    "domaine_code": "I13"
+  },
+  {
+    "code": "I1308",
+    "libelle": "Maintenance d'installation de chauffage",
+    "domaine_code": "I13"
+  },
+  {
+    "code": "I1309",
+    "libelle": "Maintenance électrique",
+    "domaine_code": "I13"
+  },
+  {
+    "code": "I1310",
+    "libelle": "Maintenance mécanique industrielle",
+    "domaine_code": "I13"
+  },
+  {
+    "code": "I1401",
+    "libelle": "Maintenance informatique et bureautique",
+    "domaine_code": "I14"
+  },
+  {
+    "code": "I1402",
+    "libelle": "Réparation de biens électrodomestiques et multimédia",
+    "domaine_code": "I14"
+  },
+  {
+    "code": "I1501",
+    "libelle": "Intervention en grande hauteur",
+    "domaine_code": "I15"
+  },
+  {
+    "code": "I1502",
+    "libelle": "Intervention en milieu subaquatique",
+    "domaine_code": "I15"
+  },
+  {
+    "code": "I1503",
+    "libelle": "Intervention en milieux et produits nocifs",
+    "domaine_code": "I15"
+  },
+  {
+    "code": "I1601",
+    "libelle": "Installation et maintenance en nautisme",
+    "domaine_code": "I16"
+  },
+  {
+    "code": "I1602",
+    "libelle": "Maintenance d'aéronefs",
+    "domaine_code": "I16"
+  },
+  {
+    "code": "I1603",
+    "libelle": "Maintenance d'engins de chantier, levage, manutention et de machines agricoles",
+    "domaine_code": "I16"
+  },
+  {
+    "code": "I1604",
+    "libelle": "Mécanique automobile et entretien de véhicules",
+    "domaine_code": "I16"
+  },
+  {
+    "code": "I1605",
+    "libelle": "Mécanique de marine",
+    "domaine_code": "I16"
+  },
+  {
+    "code": "I1606",
+    "libelle": "Réparation de carrosserie",
+    "domaine_code": "I16"
+  },
+  {
+    "code": "I1607",
+    "libelle": "Réparation de cycles, motocycles et motoculteurs de loisirs",
+    "domaine_code": "I16"
+  },
+  {
+    "code": "J1101",
+    "libelle": "Médecine de prévention",
+    "domaine_code": "J11"
+  },
+  {
+    "code": "J1102",
+    "libelle": "Médecine généraliste et spécialisée",
+    "domaine_code": "J11"
+  },
+  {
+    "code": "J1103",
+    "libelle": "Médecine dentaire",
+    "domaine_code": "J11"
+  },
+  {
+    "code": "J1104",
+    "libelle": "Suivi de la grossesse et de l'accouchement",
+    "domaine_code": "J11"
+  },
+  {
+    "code": "J1201",
+    "libelle": "Biologie médicale",
+    "domaine_code": "J12"
+  },
+  {
+    "code": "J1202",
+    "libelle": "Pharmacie",
+    "domaine_code": "J12"
+  },
+  {
+    "code": "J1301",
+    "libelle": "Personnel polyvalent des services hospitaliers",
+    "domaine_code": "J13"
+  },
+  {
+    "code": "J1302",
+    "libelle": "Analyses médicales",
+    "domaine_code": "J13"
+  },
+  {
+    "code": "J1303",
+    "libelle": "Assistance médico-technique",
+    "domaine_code": "J13"
+  },
+  {
+    "code": "J1304",
+    "libelle": "Aide en puériculture",
+    "domaine_code": "J13"
+  },
+  {
+    "code": "J1305",
+    "libelle": "Conduite de véhicules sanitaires",
+    "domaine_code": "J13"
+  },
+  {
+    "code": "J1306",
+    "libelle": "Imagerie médicale",
+    "domaine_code": "J13"
+  },
+  {
+    "code": "J1307",
+    "libelle": "Préparation en pharmacie",
+    "domaine_code": "J13"
+  },
+  {
+    "code": "J1401",
+    "libelle": "Audioprothèses",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1402",
+    "libelle": "Diététique",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1403",
+    "libelle": "Ergothérapie",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1404",
+    "libelle": "Kinésithérapie",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1405",
+    "libelle": "Optique - lunetterie",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1406",
+    "libelle": "Orthophonie",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1407",
+    "libelle": "Orthoptique",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1408",
+    "libelle": "Ostéopathie et chiropraxie",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1409",
+    "libelle": "Pédicurie et podologie",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1410",
+    "libelle": "Prothèses dentaires",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1411",
+    "libelle": "Prothèses et orthèses",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1412",
+    "libelle": "Rééducation en psychomotricité",
+    "domaine_code": "J14"
+  },
+  {
+    "code": "J1501",
+    "libelle": "Soins d'hygiène, de confort du patient",
+    "domaine_code": "J15"
+  },
+  {
+    "code": "J1502",
+    "libelle": "Coordination de services médicaux ou paramédicaux",
+    "domaine_code": "J15"
+  },
+  {
+    "code": "J1503",
+    "libelle": "Soins infirmiers spécialisés en anesthésie",
+    "domaine_code": "J15"
+  },
+  {
+    "code": "J1504",
+    "libelle": "Soins infirmiers spécialisés en bloc opératoire",
+    "domaine_code": "J15"
+  },
+  {
+    "code": "J1505",
+    "libelle": "Soins infirmiers spécialisés en prévention",
+    "domaine_code": "J15"
+  },
+  {
+    "code": "J1506",
+    "libelle": "Soins infirmiers généralistes",
+    "domaine_code": "J15"
+  },
+  {
+    "code": "J1507",
+    "libelle": "Soins infirmiers spécialisés en puériculture",
+    "domaine_code": "J15"
+  },
+  {
+    "code": "K1101",
+    "libelle": "Accompagnement et médiation familiale",
+    "domaine_code": "K11"
+  },
+  {
+    "code": "K1102",
+    "libelle": "Aide aux bénéficiaires d'une mesure de protection juridique",
+    "domaine_code": "K11"
+  },
+  {
+    "code": "K1103",
+    "libelle": "Développement personnel et bien-être de la personne",
+    "domaine_code": "K11"
+  },
+  {
+    "code": "K1104",
+    "libelle": "Psychologie",
+    "domaine_code": "K11"
+  },
+  {
+    "code": "K1201",
+    "libelle": "Action sociale",
+    "domaine_code": "K12"
+  },
+  {
+    "code": "K1202",
+    "libelle": "Éducation de jeunes enfants",
+    "domaine_code": "K12"
+  },
+  {
+    "code": "K1203",
+    "libelle": "Encadrement technique en insertion professionnelle",
+    "domaine_code": "K12"
+  },
+  {
+    "code": "K1204",
+    "libelle": "Médiation sociale et facilitation de la vie en société",
+    "domaine_code": "K12"
+  },
+  {
+    "code": "K1205",
+    "libelle": "Information sociale",
+    "domaine_code": "K12"
+  },
+  {
+    "code": "K1206",
+    "libelle": "Intervention socioculturelle",
+    "domaine_code": "K12"
+  },
+  {
+    "code": "K1207",
+    "libelle": "Intervention socioéducative",
+    "domaine_code": "K12"
+  },
+  {
+    "code": "K1301",
+    "libelle": "Accompagnement médicosocial",
+    "domaine_code": "K13"
+  },
+  {
+    "code": "K1302",
+    "libelle": "Assistance auprès d'adultes",
+    "domaine_code": "K13"
+  },
+  {
+    "code": "K1303",
+    "libelle": "Assistance auprès d'enfants",
+    "domaine_code": "K13"
+  },
+  {
+    "code": "K1304",
+    "libelle": "Services domestiques",
+    "domaine_code": "K13"
+  },
+  {
+    "code": "K1305",
+    "libelle": "Intervention sociale et familiale",
+    "domaine_code": "K13"
+  },
+  {
+    "code": "K1401",
+    "libelle": "Conception et pilotage de la politique des pouvoirs publics",
+    "domaine_code": "K14"
+  },
+  {
+    "code": "K1402",
+    "libelle": "Conseil en Santé Publique",
+    "domaine_code": "K14"
+  },
+  {
+    "code": "K1403",
+    "libelle": "Management de structure de santé, sociale ou pénitentiaire",
+    "domaine_code": "K14"
+  },
+  {
+    "code": "K1404",
+    "libelle": "Mise en oeuvre et pilotage de la politique des pouvoirs publics",
+    "domaine_code": "K14"
+  },
+  {
+    "code": "K1405",
+    "libelle": "Représentation de l'État sur le territoire national ou international",
+    "domaine_code": "K14"
+  },
+  {
+    "code": "K1501",
+    "libelle": "Application des règles financières publiques",
+    "domaine_code": "K15"
+  },
+  {
+    "code": "K1502",
+    "libelle": "Contrôle et inspection des Affaires Sociales",
+    "domaine_code": "K15"
+  },
+  {
+    "code": "K1503",
+    "libelle": "Contrôle et inspection des impôts",
+    "domaine_code": "K15"
+  },
+  {
+    "code": "K1504",
+    "libelle": "Contrôle et inspection du Trésor Public",
+    "domaine_code": "K15"
+  },
+  {
+    "code": "K1505",
+    "libelle": "Protection des consommateurs et contrôle des échanges commerciaux",
+    "domaine_code": "K15"
+  },
+  {
+    "code": "K1601",
+    "libelle": "Gestion de l'information et de la documentation",
+    "domaine_code": "K16"
+  },
+  {
+    "code": "K1602",
+    "libelle": "Gestion de patrimoine culturel",
+    "domaine_code": "K16"
+  },
+  {
+    "code": "K1701",
+    "libelle": "Personnel de la Défense",
+    "domaine_code": "K17"
+  },
+  {
+    "code": "K1702",
+    "libelle": "Direction de la sécurité civile et des secours",
+    "domaine_code": "K17"
+  },
+  {
+    "code": "K1703",
+    "libelle": "Direction opérationnelle de la défense",
+    "domaine_code": "K17"
+  },
+  {
+    "code": "K1704",
+    "libelle": "Management de la sécurité publique",
+    "domaine_code": "K17"
+  },
+  {
+    "code": "K1705",
+    "libelle": "Sécurité civile et secours",
+    "domaine_code": "K17"
+  },
+  {
+    "code": "K1706",
+    "libelle": "Sécurité publique",
+    "domaine_code": "K17"
+  },
+  {
+    "code": "K1707",
+    "libelle": "Surveillance municipale",
+    "domaine_code": "K17"
+  },
+  {
+    "code": "K1801",
+    "libelle": "Conseil en emploi et insertion socioprofessionnelle",
+    "domaine_code": "K18"
+  },
+  {
+    "code": "K1802",
+    "libelle": "Développement local",
+    "domaine_code": "K18"
+  },
+  {
+    "code": "K1901",
+    "libelle": "Aide et médiation judiciaire",
+    "domaine_code": "K19"
+  },
+  {
+    "code": "K1902",
+    "libelle": "Collaboration juridique",
+    "domaine_code": "K19"
+  },
+  {
+    "code": "K1903",
+    "libelle": "Défense et conseil juridique",
+    "domaine_code": "K19"
+  },
+  {
+    "code": "K1904",
+    "libelle": "Magistrature",
+    "domaine_code": "K19"
+  },
+  {
+    "code": "K2101",
+    "libelle": "Conseil en formation",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2102",
+    "libelle": "Coordination pédagogique",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2103",
+    "libelle": "Direction d'établissement et d'enseignement",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2104",
+    "libelle": "Éducation et surveillance au sein d'établissements d'enseignement",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2105",
+    "libelle": "Enseignement artistique",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2106",
+    "libelle": "Enseignement des écoles",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2107",
+    "libelle": "Enseignement général du second degré",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2108",
+    "libelle": "Enseignement supérieur",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2109",
+    "libelle": "Enseignement technique et professionnel",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2110",
+    "libelle": "Formation en conduite de véhicules",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2111",
+    "libelle": "Formation professionnelle",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2112",
+    "libelle": "Orientation scolaire et professionnelle",
+    "domaine_code": "K21"
+  },
+  {
+    "code": "K2201",
+    "libelle": "Blanchisserie industrielle",
+    "domaine_code": "K22"
+  },
+  {
+    "code": "K2202",
+    "libelle": "Lavage de vitres",
+    "domaine_code": "K22"
+  },
+  {
+    "code": "K2203",
+    "libelle": "Management et inspection en propreté de locaux",
+    "domaine_code": "K22"
+  },
+  {
+    "code": "K2204",
+    "libelle": "Nettoyage de locaux",
+    "domaine_code": "K22"
+  },
+  {
+    "code": "K2301",
+    "libelle": "Distribution et assainissement d'eau",
+    "domaine_code": "K23"
+  },
+  {
+    "code": "K2302",
+    "libelle": "Management et inspection en environnement urbain",
+    "domaine_code": "K23"
+  },
+  {
+    "code": "K2303",
+    "libelle": "Nettoyage des espaces urbains",
+    "domaine_code": "K23"
+  },
+  {
+    "code": "K2304",
+    "libelle": "Revalorisation de produits industriels",
+    "domaine_code": "K23"
+  },
+  {
+    "code": "K2305",
+    "libelle": "Salubrité et traitement de nuisibles",
+    "domaine_code": "K23"
+  },
+  {
+    "code": "K2306",
+    "libelle": "Supervision d'exploitation éco-industrielle",
+    "domaine_code": "K23"
+  },
+  {
+    "code": "K2401",
+    "libelle": "Recherche en sciences de l'homme et de la société",
+    "domaine_code": "K24"
+  },
+  {
+    "code": "K2402",
+    "libelle": "Recherche en sciences de l'univers, de la matière et du vivant",
+    "domaine_code": "K24"
+  },
+  {
+    "code": "K2501",
+    "libelle": "Gardiennage de locaux",
+    "domaine_code": "K25"
+  },
+  {
+    "code": "K2502",
+    "libelle": "Management de sécurité privée",
+    "domaine_code": "K25"
+  },
+  {
+    "code": "K2503",
+    "libelle": "Sécurité et surveillance privées",
+    "domaine_code": "K25"
+  },
+  {
+    "code": "K2601",
+    "libelle": "Conduite d'opérations funéraires",
+    "domaine_code": "K26"
+  },
+  {
+    "code": "K2602",
+    "libelle": "Conseil en services funéraires",
+    "domaine_code": "K26"
+  },
+  {
+    "code": "K2603",
+    "libelle": "Thanatopraxie",
+    "domaine_code": "K26"
+  },
+  {
+    "code": "L1101",
+    "libelle": "Animation musicale et scénique",
+    "domaine_code": "L11"
+  },
+  {
+    "code": "L1102",
+    "libelle": "Mannequinat et pose artistique",
+    "domaine_code": "L11"
+  },
+  {
+    "code": "L1103",
+    "libelle": "Présentation de spectacles ou d'émissions",
+    "domaine_code": "L11"
+  },
+  {
+    "code": "L1201",
+    "libelle": "Danse",
+    "domaine_code": "L12"
+  },
+  {
+    "code": "L1202",
+    "libelle": "Musique et chant",
+    "domaine_code": "L12"
+  },
+  {
+    "code": "L1203",
+    "libelle": "Art dramatique",
+    "domaine_code": "L12"
+  },
+  {
+    "code": "L1204",
+    "libelle": "Arts du cirque et arts visuels",
+    "domaine_code": "L12"
+  },
+  {
+    "code": "L1301",
+    "libelle": "Mise en scène de spectacles vivants",
+    "domaine_code": "L13"
+  },
+  {
+    "code": "L1302",
+    "libelle": "Production et administration spectacle, cinéma et audiovisuel",
+    "domaine_code": "L13"
+  },
+  {
+    "code": "L1303",
+    "libelle": "Promotion d'artistes et de spectacles",
+    "domaine_code": "L13"
+  },
+  {
+    "code": "L1304",
+    "libelle": "Réalisation cinématographique et audiovisuelle",
+    "domaine_code": "L13"
+  },
+  {
+    "code": "L1401",
+    "libelle": "Sportif professionnel",
+    "domaine_code": "L14"
+  },
+  {
+    "code": "L1501",
+    "libelle": "Coiffure et maquillage spectacle",
+    "domaine_code": "L15"
+  },
+  {
+    "code": "L1502",
+    "libelle": "Costume et habillage spectacle",
+    "domaine_code": "L15"
+  },
+  {
+    "code": "L1503",
+    "libelle": "Décor et accessoires spectacle",
+    "domaine_code": "L15"
+  },
+  {
+    "code": "L1504",
+    "libelle": "Éclairage spectacle",
+    "domaine_code": "L15"
+  },
+  {
+    "code": "L1505",
+    "libelle": "Image cinématographique et télévisuelle",
+    "domaine_code": "L15"
+  },
+  {
+    "code": "L1506",
+    "libelle": "Machinerie spectacle",
+    "domaine_code": "L15"
+  },
+  {
+    "code": "L1507",
+    "libelle": "Montage audiovisuel et post-production",
+    "domaine_code": "L15"
+  },
+  {
+    "code": "L1508",
+    "libelle": "Prise de son et sonorisation",
+    "domaine_code": "L15"
+  },
+  {
+    "code": "L1509",
+    "libelle": "Régie générale",
+    "domaine_code": "L15"
+  },
+  {
+    "code": "L1510",
+    "libelle": "Films d'animation et effets spéciaux",
+    "domaine_code": "L15"
+  },
+  {
+    "code": "M1101",
+    "libelle": "Achats",
+    "domaine_code": "M11"
+  },
+  {
+    "code": "M1102",
+    "libelle": "Direction des achats",
+    "domaine_code": "M11"
+  },
+  {
+    "code": "M1201",
+    "libelle": "Analyse et ingénierie financière",
+    "domaine_code": "M12"
+  },
+  {
+    "code": "M1202",
+    "libelle": "Audit et contrôle comptables et financiers",
+    "domaine_code": "M12"
+  },
+  {
+    "code": "M1203",
+    "libelle": "Comptabilité",
+    "domaine_code": "M12"
+  },
+  {
+    "code": "M1204",
+    "libelle": "Contrôle de gestion",
+    "domaine_code": "M12"
+  },
+  {
+    "code": "M1205",
+    "libelle": "Direction administrative et financière",
+    "domaine_code": "M12"
+  },
+  {
+    "code": "M1206",
+    "libelle": "Management de groupe ou de service comptable",
+    "domaine_code": "M12"
+  },
+  {
+    "code": "M1207",
+    "libelle": "Trésorerie et financement",
+    "domaine_code": "M12"
+  },
+  {
+    "code": "M1301",
+    "libelle": "Direction de grande entreprise ou d'établissement public",
+    "domaine_code": "M13"
+  },
+  {
+    "code": "M1302",
+    "libelle": "Direction de petite ou moyenne entreprise",
+    "domaine_code": "M13"
+  },
+  {
+    "code": "M1401",
+    "libelle": "Conduite d'enquêtes",
+    "domaine_code": "M14"
+  },
+  {
+    "code": "M1402",
+    "libelle": "Conseil en organisation et management d'entreprise",
+    "domaine_code": "M14"
+  },
+  {
+    "code": "M1403",
+    "libelle": "Études et prospectives socio-économiques",
+    "domaine_code": "M14"
+  },
+  {
+    "code": "M1404",
+    "libelle": "Management et gestion d'enquêtes",
+    "domaine_code": "M14"
+  },
+  {
+    "code": "M1501",
+    "libelle": "Assistanat en ressources humaines",
+    "domaine_code": "M15"
+  },
+  {
+    "code": "M1502",
+    "libelle": "Développement des ressources humaines",
+    "domaine_code": "M15"
+  },
+  {
+    "code": "M1503",
+    "libelle": "Management des ressources humaines",
+    "domaine_code": "M15"
+  },
+  {
+    "code": "M1601",
+    "libelle": "Accueil et renseignements",
+    "domaine_code": "M16"
+  },
+  {
+    "code": "M1602",
+    "libelle": "Opérations administratives",
+    "domaine_code": "M16"
+  },
+  {
+    "code": "M1603",
+    "libelle": "Distribution de documents",
+    "domaine_code": "M16"
+  },
+  {
+    "code": "M1604",
+    "libelle": "Assistanat de direction",
+    "domaine_code": "M16"
+  },
+  {
+    "code": "M1605",
+    "libelle": "Assistanat technique et administratif",
+    "domaine_code": "M16"
+  },
+  {
+    "code": "M1606",
+    "libelle": "Saisie de données",
+    "domaine_code": "M16"
+  },
+  {
+    "code": "M1607",
+    "libelle": "Secrétariat",
+    "domaine_code": "M16"
+  },
+  {
+    "code": "M1608",
+    "libelle": "Secrétariat comptable",
+    "domaine_code": "M16"
+  },
+  {
+    "code": "M1609",
+    "libelle": "Secrétariat et assistanat médical ou médico-social",
+    "domaine_code": "M16"
+  },
+  {
+    "code": "M1701",
+    "libelle": "Administration des ventes",
+    "domaine_code": "M17"
+  },
+  {
+    "code": "M1702",
+    "libelle": "Analyse de tendance",
+    "domaine_code": "M17"
+  },
+  {
+    "code": "M1703",
+    "libelle": "Management et gestion de produit",
+    "domaine_code": "M17"
+  },
+  {
+    "code": "M1704",
+    "libelle": "Management relation clientèle",
+    "domaine_code": "M17"
+  },
+  {
+    "code": "M1705",
+    "libelle": "Marketing",
+    "domaine_code": "M17"
+  },
+  {
+    "code": "M1706",
+    "libelle": "Promotion des ventes",
+    "domaine_code": "M17"
+  },
+  {
+    "code": "M1707",
+    "libelle": "Stratégie commerciale",
+    "domaine_code": "M17"
+  },
+  {
+    "code": "M1801",
+    "libelle": "Administration de systèmes d'information",
+    "domaine_code": "M18"
+  },
+  {
+    "code": "M1802",
+    "libelle": "Expertise et support en systèmes d'information",
+    "domaine_code": "M18"
+  },
+  {
+    "code": "M1803",
+    "libelle": "Direction des systèmes d'information",
+    "domaine_code": "M18"
+  },
+  {
+    "code": "M1804",
+    "libelle": "Études et développement de réseaux de télécoms",
+    "domaine_code": "M18"
+  },
+  {
+    "code": "M1805",
+    "libelle": "Études et développement informatique",
+    "domaine_code": "M18"
+  },
+  {
+    "code": "M1806",
+    "libelle": "Conseil et maîtrise d'ouvrage en systèmes d'information",
+    "domaine_code": "M18"
+  },
+  {
+    "code": "M1807",
+    "libelle": "Exploitation de systèmes de communication et de commandement",
+    "domaine_code": "M18"
+  },
+  {
+    "code": "M1808",
+    "libelle": "Information géographique",
+    "domaine_code": "M18"
+  },
+  {
+    "code": "M1809",
+    "libelle": "Information météorologique",
+    "domaine_code": "M18"
+  },
+  {
+    "code": "M1810",
+    "libelle": "Production et exploitation de systèmes d'information",
+    "domaine_code": "M18"
+  },
+  {
+    "code": "N1101",
+    "libelle": "Conduite d'engins de déplacement des charges",
+    "domaine_code": "N11"
+  },
+  {
+    "code": "N1102",
+    "libelle": "Déménagement",
+    "domaine_code": "N11"
+  },
+  {
+    "code": "N1103",
+    "libelle": "Magasinage et préparation de commandes",
+    "domaine_code": "N11"
+  },
+  {
+    "code": "N1104",
+    "libelle": "Manoeuvre et conduite d'engins lourds de manutention",
+    "domaine_code": "N11"
+  },
+  {
+    "code": "N1105",
+    "libelle": "Manutention manuelle de charges",
+    "domaine_code": "N11"
+  },
+  {
+    "code": "N1201",
+    "libelle": "Affrètement transport",
+    "domaine_code": "N12"
+  },
+  {
+    "code": "N1202",
+    "libelle": "Gestion des opérations de circulation internationale des marchandises",
+    "domaine_code": "N12"
+  },
+  {
+    "code": "N1301",
+    "libelle": "Conception et organisation de la chaîne logistique",
+    "domaine_code": "N13"
+  },
+  {
+    "code": "N1302",
+    "libelle": "Direction de site logistique",
+    "domaine_code": "N13"
+  },
+  {
+    "code": "N1303",
+    "libelle": "Intervention technique d'exploitation logistique",
+    "domaine_code": "N13"
+  },
+  {
+    "code": "N2101",
+    "libelle": "Navigation commerciale aérienne",
+    "domaine_code": "N21"
+  },
+  {
+    "code": "N2102",
+    "libelle": "Pilotage et navigation technique aérienne",
+    "domaine_code": "N21"
+  },
+  {
+    "code": "N2201",
+    "libelle": "Personnel d'escale aéroportuaire",
+    "domaine_code": "N22"
+  },
+  {
+    "code": "N2202",
+    "libelle": "Contrôle de la navigation aérienne",
+    "domaine_code": "N22"
+  },
+  {
+    "code": "N2203",
+    "libelle": "Exploitation des pistes aéroportuaires",
+    "domaine_code": "N22"
+  },
+  {
+    "code": "N2204",
+    "libelle": "Préparation des vols",
+    "domaine_code": "N22"
+  },
+  {
+    "code": "N2205",
+    "libelle": "Direction d'escale et exploitation aéroportuaire",
+    "domaine_code": "N22"
+  },
+  {
+    "code": "N3101",
+    "libelle": "Encadrement de la navigation maritime",
+    "domaine_code": "N31"
+  },
+  {
+    "code": "N3102",
+    "libelle": "Équipage de la navigation maritime",
+    "domaine_code": "N31"
+  },
+  {
+    "code": "N3103",
+    "libelle": "Navigation fluviale",
+    "domaine_code": "N31"
+  },
+  {
+    "code": "N3201",
+    "libelle": "Exploitation des opérations portuaires et du transport maritime",
+    "domaine_code": "N32"
+  },
+  {
+    "code": "N3202",
+    "libelle": "Exploitation du transport fluvial",
+    "domaine_code": "N32"
+  },
+  {
+    "code": "N3203",
+    "libelle": "Manutention portuaire",
+    "domaine_code": "N32"
+  },
+  {
+    "code": "N4101",
+    "libelle": "Conduite de transport de marchandises sur longue distance",
+    "domaine_code": "N41"
+  },
+  {
+    "code": "N4102",
+    "libelle": "Conduite de transport de particuliers",
+    "domaine_code": "N41"
+  },
+  {
+    "code": "N4103",
+    "libelle": "Conduite de transport en commun sur route",
+    "domaine_code": "N41"
+  },
+  {
+    "code": "N4104",
+    "libelle": "Courses et livraisons express",
+    "domaine_code": "N41"
+  },
+  {
+    "code": "N4105",
+    "libelle": "Conduite et livraison par tournées sur courte distance",
+    "domaine_code": "N41"
+  },
+  {
+    "code": "N4201",
+    "libelle": "Direction d'exploitation des transports routiers de marchandises",
+    "domaine_code": "N42"
+  },
+  {
+    "code": "N4202",
+    "libelle": "Direction d'exploitation des transports routiers de personnes",
+    "domaine_code": "N42"
+  },
+  {
+    "code": "N4203",
+    "libelle": "Intervention technique d'exploitation des transports routiers de marchandises",
+    "domaine_code": "N42"
+  },
+  {
+    "code": "N4204",
+    "libelle": "Intervention technique d'exploitation des transports routiers de personnes",
+    "domaine_code": "N42"
+  },
+  {
+    "code": "N4301",
+    "libelle": "Conduite sur rails",
+    "domaine_code": "N43"
+  },
+  {
+    "code": "N4302",
+    "libelle": "Contrôle des transports en commun",
+    "domaine_code": "N43"
+  },
+  {
+    "code": "N4401",
+    "libelle": "Circulation du réseau ferré",
+    "domaine_code": "N44"
+  },
+  {
+    "code": "N4402",
+    "libelle": "Exploitation et manoeuvre des remontées mécaniques",
+    "domaine_code": "N44"
+  },
+  {
+    "code": "N4403",
+    "libelle": "Manoeuvre du réseau ferré",
+    "domaine_code": "N44"
+  }
+]

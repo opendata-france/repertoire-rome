@@ -1,0 +1,552 @@
+[
+  {
+    "code": "A11",
+    "libelle": "Engins agricoles et forestiers",
+    "grand_domaine_code": "A"
+  },
+  {
+    "code": "A12",
+    "libelle": "Espaces naturels et espaces verts",
+    "grand_domaine_code": "A"
+  },
+  {
+    "code": "A13",
+    "libelle": "Etudes et assistance technique",
+    "grand_domaine_code": "A"
+  },
+  {
+    "code": "A14",
+    "libelle": "Production",
+    "grand_domaine_code": "A"
+  },
+  {
+    "code": "A15",
+    "libelle": "Soins aux animaux",
+    "grand_domaine_code": "A"
+  },
+  {
+    "code": "B11",
+    "libelle": "Arts plastiques",
+    "grand_domaine_code": "B"
+  },
+  {
+    "code": "B12",
+    "libelle": "Céramique",
+    "grand_domaine_code": "B"
+  },
+  {
+    "code": "B13",
+    "libelle": "Décoration",
+    "grand_domaine_code": "B"
+  },
+  {
+    "code": "B14",
+    "libelle": "Fibres et papier",
+    "grand_domaine_code": "B"
+  },
+  {
+    "code": "B15",
+    "libelle": "Instruments de musique",
+    "grand_domaine_code": "B"
+  },
+  {
+    "code": "B16",
+    "libelle": "Métal, verre, bijouterie et horlogerie",
+    "grand_domaine_code": "B"
+  },
+  {
+    "code": "B17",
+    "libelle": "Taxidermie",
+    "grand_domaine_code": "B"
+  },
+  {
+    "code": "B18",
+    "libelle": "Tissu et cuirs",
+    "grand_domaine_code": "B"
+  },
+  {
+    "code": "C11",
+    "libelle": "Assurance",
+    "grand_domaine_code": "C"
+  },
+  {
+    "code": "C12",
+    "libelle": "Banque",
+    "grand_domaine_code": "C"
+  },
+  {
+    "code": "C13",
+    "libelle": "Finance",
+    "grand_domaine_code": "C"
+  },
+  {
+    "code": "C14",
+    "libelle": "Gestion administrative banque et assurances",
+    "grand_domaine_code": "C"
+  },
+  {
+    "code": "C15",
+    "libelle": "Immobilier",
+    "grand_domaine_code": "C"
+  },
+  {
+    "code": "D11",
+    "libelle": "Commerce alimentaire et métiers de bouche",
+    "grand_domaine_code": "D"
+  },
+  {
+    "code": "D12",
+    "libelle": "Commerce non alimentaire et de prestations de confort",
+    "grand_domaine_code": "D"
+  },
+  {
+    "code": "D13",
+    "libelle": "Direction de magasin de détail",
+    "grand_domaine_code": "D"
+  },
+  {
+    "code": "D14",
+    "libelle": "Force de vente",
+    "grand_domaine_code": "D"
+  },
+  {
+    "code": "D15",
+    "libelle": "Grande distribution",
+    "grand_domaine_code": "D"
+  },
+  {
+    "code": "E11",
+    "libelle": "Edition et communication",
+    "grand_domaine_code": "E"
+  },
+  {
+    "code": "E12",
+    "libelle": "Images et sons",
+    "grand_domaine_code": "E"
+  },
+  {
+    "code": "E13",
+    "libelle": "Industries graphiques",
+    "grand_domaine_code": "E"
+  },
+  {
+    "code": "E14",
+    "libelle": "Publicité",
+    "grand_domaine_code": "E"
+  },
+  {
+    "code": "F11",
+    "libelle": "Conception et études",
+    "grand_domaine_code": "F"
+  },
+  {
+    "code": "F12",
+    "libelle": "Conduite et encadrement de chantier - travaux",
+    "grand_domaine_code": "F"
+  },
+  {
+    "code": "F13",
+    "libelle": "Engins de chantier",
+    "grand_domaine_code": "F"
+  },
+  {
+    "code": "F14",
+    "libelle": "Extraction",
+    "grand_domaine_code": "F"
+  },
+  {
+    "code": "F15",
+    "libelle": "Montage de structures",
+    "grand_domaine_code": "F"
+  },
+  {
+    "code": "F16",
+    "libelle": "Second oeuvre",
+    "grand_domaine_code": "F"
+  },
+  {
+    "code": "F17",
+    "libelle": "Travaux et gros oeuvre",
+    "grand_domaine_code": "F"
+  },
+  {
+    "code": "G11",
+    "libelle": "Accueil et promotion touristique",
+    "grand_domaine_code": "G"
+  },
+  {
+    "code": "G12",
+    "libelle": "Animation d'activités de loisirs",
+    "grand_domaine_code": "G"
+  },
+  {
+    "code": "G13",
+    "libelle": "Conception, commercialisation et vente de produits touristiques",
+    "grand_domaine_code": "G"
+  },
+  {
+    "code": "G14",
+    "libelle": "Gestion et direction",
+    "grand_domaine_code": "G"
+  },
+  {
+    "code": "G15",
+    "libelle": "Personnel d'étage en hôtellerie",
+    "grand_domaine_code": "G"
+  },
+  {
+    "code": "G16",
+    "libelle": "Production culinaire",
+    "grand_domaine_code": "G"
+  },
+  {
+    "code": "G17",
+    "libelle": "Accueil en hôtellerie",
+    "grand_domaine_code": "G"
+  },
+  {
+    "code": "G18",
+    "libelle": "Service",
+    "grand_domaine_code": "G"
+  },
+  {
+    "code": "H11",
+    "libelle": "Affaires et support technique client",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H12",
+    "libelle": "Conception, recherche, études et développement",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H13",
+    "libelle": "Hygiène Sécurité Environnement -HSE- industriels",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H14",
+    "libelle": "Méthodes et gestion industrielles",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H15",
+    "libelle": "Qualité et analyses industrielles",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H21",
+    "libelle": "Alimentaire",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H22",
+    "libelle": "Bois",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H23",
+    "libelle": "Chimie et pharmacie",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H24",
+    "libelle": "Cuir et textile",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H25",
+    "libelle": "Direction, encadrement et pilotage de fabrication et production industrielles",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H26",
+    "libelle": "Electronique et électricité",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H27",
+    "libelle": "Energie",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H28",
+    "libelle": "Matériaux de construction, céramique et verre",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H29",
+    "libelle": "Mécanique, travail des métaux et outillage",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H31",
+    "libelle": "Papier et carton",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H32",
+    "libelle": "Plastique, caoutchouc",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H33",
+    "libelle": "Préparation et conditionnement",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "H34",
+    "libelle": "Traitements thermiques et traitements de surfaces",
+    "grand_domaine_code": "H"
+  },
+  {
+    "code": "I11",
+    "libelle": "Encadrement",
+    "grand_domaine_code": "I"
+  },
+  {
+    "code": "I12",
+    "libelle": "Entretien technique",
+    "grand_domaine_code": "I"
+  },
+  {
+    "code": "I13",
+    "libelle": "Equipements de production, équipements collectifs",
+    "grand_domaine_code": "I"
+  },
+  {
+    "code": "I14",
+    "libelle": "Equipements domestiques et informatique",
+    "grand_domaine_code": "I"
+  },
+  {
+    "code": "I15",
+    "libelle": "Travaux d'accès difficile",
+    "grand_domaine_code": "I"
+  },
+  {
+    "code": "I16",
+    "libelle": "Véhicules, engins, aéronefs",
+    "grand_domaine_code": "I"
+  },
+  {
+    "code": "J11",
+    "libelle": "Praticiens médicaux",
+    "grand_domaine_code": "J"
+  },
+  {
+    "code": "J12",
+    "libelle": "Praticiens médico-techniques",
+    "grand_domaine_code": "J"
+  },
+  {
+    "code": "J13",
+    "libelle": "Professionnels médico-techniques",
+    "grand_domaine_code": "J"
+  },
+  {
+    "code": "J14",
+    "libelle": "Rééducation et appareillage",
+    "grand_domaine_code": "J"
+  },
+  {
+    "code": "J15",
+    "libelle": "Soins paramédicaux",
+    "grand_domaine_code": "J"
+  },
+  {
+    "code": "K11",
+    "libelle": "Accompagnement de la personne",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K12",
+    "libelle": "Action sociale, socio-éducative et socio-culturelle",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K13",
+    "libelle": "Aide à la vie quotidienne",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K14",
+    "libelle": "Conception et mise en oeuvre des politiques publiques",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K15",
+    "libelle": "Contrôle public",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K16",
+    "libelle": "Culture et gestion documentaire",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K17",
+    "libelle": "Défense, sécurité publique et secours",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K18",
+    "libelle": "Développement territorial et emploi",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K19",
+    "libelle": "Droit",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K21",
+    "libelle": "Formation initiale et continue",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K22",
+    "libelle": "Nettoyage et propreté industriels",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K23",
+    "libelle": "Propreté et environnement urbain",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K24",
+    "libelle": "Recherche",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K25",
+    "libelle": "Sécurité privée",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "K26",
+    "libelle": "Services funéraires",
+    "grand_domaine_code": "K"
+  },
+  {
+    "code": "L11",
+    "libelle": "Animation de spectacles",
+    "grand_domaine_code": "L"
+  },
+  {
+    "code": "L12",
+    "libelle": "Artistes - interprètes du spectacle",
+    "grand_domaine_code": "L"
+  },
+  {
+    "code": "L13",
+    "libelle": "Conception et production de spectacles",
+    "grand_domaine_code": "L"
+  },
+  {
+    "code": "L14",
+    "libelle": "Sport professionnel",
+    "grand_domaine_code": "L"
+  },
+  {
+    "code": "L15",
+    "libelle": "Techniciens du spectacle",
+    "grand_domaine_code": "L"
+  },
+  {
+    "code": "M11",
+    "libelle": "Achats",
+    "grand_domaine_code": "M"
+  },
+  {
+    "code": "M12",
+    "libelle": "Comptabilité et gestion",
+    "grand_domaine_code": "M"
+  },
+  {
+    "code": "M13",
+    "libelle": "Direction d'entreprise",
+    "grand_domaine_code": "M"
+  },
+  {
+    "code": "M14",
+    "libelle": "Organisation et études",
+    "grand_domaine_code": "M"
+  },
+  {
+    "code": "M15",
+    "libelle": "Ressources humaines",
+    "grand_domaine_code": "M"
+  },
+  {
+    "code": "M16",
+    "libelle": "Secrétariat et assistance",
+    "grand_domaine_code": "M"
+  },
+  {
+    "code": "M17",
+    "libelle": "Stratégie commerciale, marketing et supervision des ventes",
+    "grand_domaine_code": "M"
+  },
+  {
+    "code": "M18",
+    "libelle": "Systèmes d'information et de télécommunication",
+    "grand_domaine_code": "M"
+  },
+  {
+    "code": "N11",
+    "libelle": "Magasinage, manutention des charges et déménagement",
+    "grand_domaine_code": "N"
+  },
+  {
+    "code": "N12",
+    "libelle": "Organisation de la circulation des marchandises",
+    "grand_domaine_code": "N"
+  },
+  {
+    "code": "N13",
+    "libelle": "Personnel d'encadrement de la logistique",
+    "grand_domaine_code": "N"
+  },
+  {
+    "code": "N21",
+    "libelle": "Personnel navigant du transport aérien",
+    "grand_domaine_code": "N"
+  },
+  {
+    "code": "N22",
+    "libelle": "Personnel sédentaire du transport aérien",
+    "grand_domaine_code": "N"
+  },
+  {
+    "code": "N31",
+    "libelle": "Personnel navigant du transport maritime et fluvial",
+    "grand_domaine_code": "N"
+  },
+  {
+    "code": "N32",
+    "libelle": "Personnel sédentaire du transport maritime et fluvial",
+    "grand_domaine_code": "N"
+  },
+  {
+    "code": "N41",
+    "libelle": "Personnel de conduite du transport routier",
+    "grand_domaine_code": "N"
+  },
+  {
+    "code": "N42",
+    "libelle": "Personnel d'encadrement du transport routier",
+    "grand_domaine_code": "N"
+  },
+  {
+    "code": "N43",
+    "libelle": "Personnel navigant du transport terrestre",
+    "grand_domaine_code": "N"
+  },
+  {
+    "code": "N44",
+    "libelle": "Personnel sédentaire du transport ferroviaire et réseau filo guidé",
+    "grand_domaine_code": "N"
+  }
+]
